@@ -1,5 +1,30 @@
 # Goldman Sachs PWM Operations Virtual Experience
 
+<p>
+  <img src="https://img.shields.io/badge/Program-Goldman%20Sachs%20PWM%20Operations-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-lightblue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
+---
+
+## 📋 Table of Contents
+
+- [Task 1: Personal Transaction Plan](#task-1-personal-transaction-plan)
+  - [What You'll Learn](#what-youll-learn)
+  - [What You'll Do](#what-youll-do)
+  - [Scenario & Deliverable](#scenario--deliverable)
+- [Task 2: Trade Fail Report](#task-2-trade-fail-report)
+  - [What You'll Learn](#what-youll-learn-1)
+  - [What You'll Do](#what-youll-do-1)
+  - [Scenario & Deliverable](#scenario--deliverable-1)
+- [Work Results Summary](#work-results-summary)
+  - [Task 1 — Personal Transaction Plan Results](#task-1--personal-transaction-plan-results)
+  - [Task 2 — Trade Fail Report Results](#task-2--trade-fail-report-results)
+- [Repository Structure & How to Use](#repository-structure--how-to-use)
+
+---
+
 **Role Simulated:** Operations Analyst, Private Wealth Management  
 **Program:** Two-Part Virtual Experience (April 2026)  
 **Focus:** Transaction facilitation, operational efficiency, risk management, and client service in a global financial institution
